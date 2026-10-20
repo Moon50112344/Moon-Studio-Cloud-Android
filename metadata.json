@@ -1,0 +1,6 @@
+{
+  "name": "Moon Studio Cloud Android",
+  "description": "Nền tảng Cloud Android Virtual Phone chuyên nghiệp mang thương hiệu Moon Studio. Quản lý, khởi tạo và điều khiển máy ảo Android thực tế trên máy chủ bare-metal KVM / Redroid container với truyền phát màn hình độ trễ thấp, cài đặt APK và tương tác cảm ứng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
